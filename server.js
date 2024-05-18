@@ -96,6 +96,7 @@ var server = http.createServer(function(request, response){
     response.end();
   }
 
+  // 代码模板
   // if(path === '/'){
   //   response.statusCode = 200
   //   response.setHeader('Content-Type', 'text/html;charset=utf-8')
